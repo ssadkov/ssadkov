@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergey Sadkov
+- 👋 Hi, I’m Sergey Sadkov. Founder of https://github.com/finkeeper
 - 👀 I’m interested in web3, cryptopayments, freestyle rap and soccer! 
 - 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on cryptopayments startup
