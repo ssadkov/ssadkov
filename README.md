@@ -1,4 +1,4 @@
-👋 Hi, I’m Sergey Sadkov — founder of [FinKeeper](https://github.com/finkeeper), an AI-powered crypto portfolio manager.  
+👋 Hi, I’m Sergey Sadkov — founder of ([Yield AI](https://github.com/ssadkov/yield-ai)), an AI-powered crypto portfolio manager.  
 👀 Passionate about Web3, cryptopayments, freestyle rap, and soccer!  
 🏆 2nd prize winner at the [Aptos Metamove Hackathon](https://devfolio.co/projects/yield-ai-8e7b) with Yield AI — an AI agent for automated DeFi farming.  
 🎙️ KOL in crypto: YouTube creator (30k+ subs), regular speaker and content contributor in the CIS blockchain space.  
