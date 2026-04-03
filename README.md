@@ -5,4 +5,4 @@
 🏛️ Worked as a blockchain consultant with the National Bank of Kazakhstan and delivered educational sessions at AIFC.  
 🌱 Currently diving deeper into Move smart contracts and modular agent architecture.  
 💞️ Open to collaboration in cryptopayments, DeFi infrastructure, and blockchain education.  
-📫 Reach me on [Telegram](https://t.me/ssadkov), [Twitter/X](https://x.com/ssadkov), or [LinkedIn](https://www.linkedin.com/in/ssadkov/)
+📫 Reach me on [Telegram](https://t.me/ssadkov), [X](https://x.com/ssadkov), or [LinkedIn](https://www.linkedin.com/in/ssadkov/)
